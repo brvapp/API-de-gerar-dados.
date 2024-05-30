@@ -35,7 +35,6 @@ async function fetchAndSaveData(token, locale, fields, quantity) {
     });
 }
 
-// Função principal
 function main() {
     const token = 'SEUTOKEN';
     const locale = 'pt_BR';
